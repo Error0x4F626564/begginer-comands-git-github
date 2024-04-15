@@ -3,6 +3,7 @@ git branch
 git branch D- <branch-name>  (Delete a branch)
 git checkout <branch-name>    (switch into a branch)
 git add .                     (update changes on local)
-git commit -m                 (commit changes on local)
+git commit -m ""              (commit changes on local)
 git push                      (update changes on remote repository)
 git pull                      (donwload a HEAD repository files)
+git clone                     (clone the repository)
