@@ -1,6 +1,7 @@
 git init
 git status                    ()
 git branch
+gir branch -a                  (show all branch in the REPOSITORY)
 git branch D- <branch-name>  (Delete a branch)
 git checkout <branch-name>    (switch into a branch)
 git checkout -b <branch-name> (create a new branch)
