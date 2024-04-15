@@ -7,6 +7,7 @@ git commit -m ""              (commit changes on local)
 git push                      (update changes on remote repository with the same name than a branch(in case))
 git pull                      (donwload a HEAD repository files)
 git clone                     (clone the repository)
+git log                       (show a lastest commits press Q to exit)
 =====================================================================
 cd                            (change directory)
 cd <folder-name>              (acces to a folder)
