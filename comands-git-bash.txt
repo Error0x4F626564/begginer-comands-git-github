@@ -3,6 +3,7 @@ git status                    ()
 git branch
 git branch D- <branch-name>  (Delete a branch)
 git checkout <branch-name>    (switch into a branch)
+git checkout -b <branch-name> (create a new branch)
 git add .                     (update changes on local)
 git commit -m ""              (commit changes on local)
 git push                      (update changes on remote repository with the same name than a branch(in case))
