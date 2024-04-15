@@ -13,6 +13,7 @@ git clone                     (clone the repository)
 git log                       (show a lastest commits press Q to exit)
 git fetch                     (get a changes of repository)
 git merge                     (merge a branch with another)
+git remote -v                 (show all branches)
 =====================================================================
 cd                            (change directory)
 cd <folder-name>              (acces to a folder)
